@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Building+SaaS+that+solves+real+problems;Django+%7C+REST+APIs+%7C+Stripe+%7C+AI+Automation;Founder+%40+WhatsBizPro;Always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Building+SaaS+that+solves+real+problems;Backend+Developer+%7C+Django+Enthusiast;REST+APIs+%7C+Stripe+%7C+AI+Automation;Founder+%40+WhatsBizPro;Always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
