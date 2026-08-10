@@ -34,8 +34,6 @@
 <!--                          ABOUT ME                               -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img align="right" alt="Coding" width="380" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp"/>
-
 ## 🚀 About Me
 
 ```python
@@ -50,7 +48,7 @@ class SebastianMauricio:
         self.mission   = "Software that solves real business problems"
 
     def say_hi(self):
-        print("Thanks for stopping by — let's build something 🔥")
+        print("Thanks for stopping by => let's build something 🔥")
 ```
 
 - 🔭 &nbsp;Currently building **[WhatsBizPro](https://whatsbizpro.org)**: a CRM & business automation platform
