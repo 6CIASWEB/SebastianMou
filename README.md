@@ -1,109 +1,178 @@
-# GitHub Profile README
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        HEADER BANNER                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h1 align="center">Hi 👋, I'm Sebastian Mauricio</h1>
-<h3 align="center">Backend Developer | Django Enthusiast | Founder of WhatsBizPro</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1a1b27&height=200&section=header&text=Sebastian%20Mauricio&fontColor=ffffff&fontSize=48&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20•%20Django%20Enthusiast%20•%20Founder%20of%20WhatsBizPro&descAlignY=58&descSize=16" alt="header"/>
 
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       TYPING ANIMATION                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SebastianMou&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Building+SaaS+that+solves+real+problems;Django+%7C+REST+APIs+%7C+Stripe+%7C+AI+Automation;Founder+%40+WhatsBizPro;Always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
 </p>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                          BADGES ROW                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SebastianMou&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <a href="https://github.com/SebastianMou?tab=followers">
+    <img src="https://img.shields.io/github/followers/SebastianMou?label=Followers&style=for-the-badge&color=0e75b6&logo=github" alt="Followers" />
+  </a>
+  <a href="https://whatsbizpro.org">
+    <img src="https://img.shields.io/badge/WhatsBizPro-Live-brightgreen?style=for-the-badge&logo=rocket" alt="WhatsBizPro" />
+  </a>
+</p>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                          ABOUT ME                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img align="right" alt="Coding" width="380" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp"/>
 
 ## 🚀 About Me
 
-* 🔭 Currently building **WhatsBizPro**, a CRM and business automation platform
-* 🌱 Learning **Advanced Django, REST APIs, Stripe Integrations, and AI Automation**
-* 👯 Open to collaborating on **SaaS and Django projects**
-* 💬 Ask me about **Django, APIs, CRM Systems, Backend Development, and SaaS**
-* ⚡ Passionate about creating software that solves real business problems
+```python
+class SebastianMauricio:
+    def __init__(self):
+        self.role      = "Backend Developer"
+        self.building  = "WhatsBizPro: CRM & Business Automation"
+        self.learning  = ["Advanced Django", "REST APIs",
+                          "Stripe Integrations", "AI Automation"]
+        self.stack     = ["Django", "DRF", "MySQL", "Stripe", "Bootstrap"]
+        self.open_to   = "SaaS & Django collaborations"
+        self.mission   = "Software that solves real business problems"
 
-## 🌟 Featured Project
+    def say_hi(self):
+        print("Thanks for stopping by — let's build something 🔥")
+```
 
-### WhatsBizPro
+- 🔭 &nbsp;Currently building **[WhatsBizPro](https://whatsbizpro.org)** — a CRM & business automation platform
+- 🌱 &nbsp;Leveling up in **Advanced Django, REST APIs, Stripe & AI Automation**
+- 👯 &nbsp;Open to collaborating on **SaaS and Django projects**
+- 💬 &nbsp;Ask me about **Django, APIs, CRM Systems, Backend Development & SaaS**
+- ⚡ &nbsp;Passionate about **creating software that solves real business problems**
 
-A business automation and CRM platform built to help companies manage customers, sales, and operations more efficiently.
+<br clear="right"/>
 
-**Tech Stack:**
-
-* Django
-* Django REST Framework
-* MySQL
-* Stripe API
-* Bootstrap
-* AI Integrations
-
-🔗 https://whatsbizpro.org
-
-## 📫 Connect With Me
-
-<p align="left">
-<a href="https://instagram.com/sebastian.error" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sebastian.error" height="30" width="40" />
-</a>
-</p>
-
-📧 Email: **[Sebastian_Mou@protonmail.com](mailto:Sebastian_Mou@protonmail.com)**
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        TECH STACK                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🛠️ Languages & Tools
 
-<p align="left">
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
-
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</a>
-
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-</a>
-
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-</a>
-
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-</a>
-
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-</a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/DRF-A30000?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      FEATURED PROJECT                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🌟 Featured Project
+
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h3>🤖 WhatsBizPro</h3>
+      <p>A business automation & CRM platform that helps companies manage
+      customers, sales, and operations more efficiently - built to turn
+      messy workflows into clean, automated pipelines.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+        <img src="https://img.shields.io/badge/AI-412991?style=flat-square&logo=openai&logoColor=white" />
+      </p>
+      <a href="https://whatsbizpro.org">
+        <img src="https://img.shields.io/badge/Visit%20Live%20Site-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" />
+      </a>
+    </td>
+    <td width="40%" valign="middle" align="center">
+      <img src="https://res.cloudinary.com/dgzhlipft/image/upload/v1757828536/whatsbizproLogoSquare_rithsi.png" alt="WhatsBizPro repo card"/>
+    </td>
+  </tr>
+</table>
+
+> ℹ️ The repo card above only renders if you have a public repo named `WhatsBizPro`. If it's private or named differently, swap `&repo=WhatsBizPro` for the right name, or delete that `<img>`.
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        GITHUB STATS                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SebastianMou&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SebastianMou&theme=tokyonight&hide_border=true" />
 </p>
+
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       ACTIVITY GRAPH                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SebastianMou&theme=tokyonight" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SebastianMou&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianMou&layout=compact&theme=tokyonight" />
-</p>
-
-## 📈 Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SebastianMou&theme=tokyo-night" />
-</p>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                          2026 GOALS                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🎯 2026 Goals
 
-* Launch new AI-powered features in WhatsBizPro
-* Grow WhatsBizPro users and subscriptions
-* Contribute more to open-source projects
-* Master scalable SaaS architecture
-* Continue building software that helps businesses succeed
+- 🤖 &nbsp;Launch new AI-powered features in **WhatsBizPro**
+- 📈 &nbsp;Grow WhatsBizPro users & subscriptions
+- 🌍 &nbsp;Contribute more to **open-source projects**
+- 🏗️ &nbsp;Master **scalable SaaS architecture**
+- 💡 &nbsp;Keep building software that helps businesses succeed
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       CONNECT WITH ME                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://instagram.com/sebastian.error" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:Sebastian_Mou@protonmail.com">
+    <img src="https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
+  </a>
+  <a href="https://whatsbizpro.org" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsBizPro-0e75b6?style=for-the-badge&logo=rocket&logoColor=white" />
+  </a>
+</p>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        QUOTE + FOOTER                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:0e75b6&height=120&section=footer" alt="footer"/>
+
+<p align="center"><i>⭐️ From <a href="https://github.com/SebastianMou">SebastianMou</a> — thanks for visiting!</i></p>
