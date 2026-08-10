@@ -41,7 +41,7 @@
 ```python
 class SebastianMauricio:
     def __init__(self):
-        self.role      = "Backend Developer"
+        self.role      = "Frontend + Backend = FullStack Developer Bitch"
         self.building  = "WhatsBizPro: CRM & Business Automation"
         self.learning  = ["Advanced Django", "REST APIs",
                           "Stripe Integrations", "AI Automation"]
@@ -53,7 +53,7 @@ class SebastianMauricio:
         print("Thanks for stopping by — let's build something 🔥")
 ```
 
-- 🔭 &nbsp;Currently building **[WhatsBizPro](https://whatsbizpro.org)** — a CRM & business automation platform
+- 🔭 &nbsp;Currently building **[WhatsBizPro](https://whatsbizpro.org)**: a CRM & business automation platform
 - 🌱 &nbsp;Leveling up in **Advanced Django, REST APIs, Stripe & AI Automation**
 - 👯 &nbsp;Open to collaborating on **SaaS and Django projects**
 - 💬 &nbsp;Ask me about **Django, APIs, CRM Systems, Backend Development & SaaS**
@@ -107,12 +107,12 @@ class SebastianMauricio:
       </a>
     </td>
     <td width="40%" valign="middle" align="center">
-      <img src="https://res.cloudinary.com/dgzhlipft/image/upload/v1757828536/whatsbizproLogoSquare_rithsi.png" alt="WhatsBizPro repo card"/>
+      <a href="https://whatsbizpro.org">
+        <img width="180" src="https://res.cloudinary.com/dgzhlipft/image/upload/v1757828536/whatsbizproLogoSquare_rithsi.png" alt="WhatsBizPro logo"/>
+      </a>
     </td>
   </tr>
 </table>
-
-> ℹ️ The repo card above only renders if you have a public repo named `WhatsBizPro`. If it's private or named differently, swap `&repo=WhatsBizPro` for the right name, or delete that `<img>`.
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                        GITHUB STATS                             -->
@@ -175,4 +175,4 @@ class SebastianMauricio:
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:0e75b6&height=120&section=footer" alt="footer"/>
 
-<p align="center"><i>⭐️ From <a href="https://github.com/SebastianMou">SebastianMou</a> — thanks for visiting!</i></p>
+<p align="center"><i>⭐️ From <a href="https://github.com/SebastianMou">SebastianMou</a> => thanks for visiting!</i></p>
