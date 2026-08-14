@@ -119,7 +119,7 @@ class SebastianMauricio:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SebastianMou&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://streak-stats.vercel.app/?user=SebastianMou&theme=tokyonight&hide_border=true" />
 </p>
 
 
