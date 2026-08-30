@@ -48,7 +48,7 @@ class SebastianMauricio:
         self.mission   = "Software that solves real business problems"
 
     def say_hi(self):
-        print("Thanks for stopping by => let's build something 🔥")
+        print("Watch me build eveything ;)")
 ```
 
 - 🔭 &nbsp;Currently building **[WhatsBizPro](https://whatsbizpro.org)**: a CRM & business automation platform
