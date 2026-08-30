@@ -39,16 +39,16 @@
 ```python
 class SebastianMauricio:
     def __init__(self):
-        self.role      = "Frontend + Backend = FullStack Developer Bitch"
-        self.building  = "WhatsBizPro: CRM & Business Automation"
-        self.learning  = ["Advanced Django", "REST APIs",
+        self.role = "Frontend + Backend = FullStack Developer Bitch"
+        self.building = "WhatsBizPro: CRM & Business Automation"
+        self.learning = ["Advanced Django", "REST APIs",
                           "Stripe Integrations", "AI Automation"]
-        self.stack     = ["Django", "DRF", "MySQL", "Stripe", "Bootstrap"]
-        self.open_to   = "SaaS & Django collaborations"
-        self.mission   = "Software that solves real business problems"
+        self.stack = ["Django", "DRF", "MySQL", "Stripe", "Bootstrap"]
+        self.open_to = "SaaS & Django collaborations"
+        self.mission = "Software that solves real business problems"
 
     def say_hi(self):
-        print("Thanks for stopping by => let's build something 🔥")
+        print("Watch me build eveything :)))")
 ```
 
 - 🔭 &nbsp;Currently building **[WhatsBizPro](https://whatsbizpro.org)**: a CRM & business automation platform
